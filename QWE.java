@@ -8,6 +8,7 @@ public class main {
             result = result * i;
             }
             System.out.println("Факториал числа " + value + " равен " + result);
+        System.out.println("Что то изменил");
         }
 
     }
