@@ -21,13 +21,13 @@ public class Main {
 
         // milk - 300 ml, powder - 5 g, eggs - 5
         if (milkAmount >= 300 && powderAmount >= 5 && eggsCount >= 5) {
-            System.out.println("Omelette");
+            System.out.println("Omelet");
         }
 
         // apples - 3, milk - 100 ml, powder - 300 g, eggs - 4
         if (appleCount >= 3 && milkAmount >= 100 && powderAmount >= 300 && eggsCount >= 4) {
             System.out.println("Apple pie");
-            System.out.println("branch2");
+            System.out.println("branch3");
         }
     }
 }
