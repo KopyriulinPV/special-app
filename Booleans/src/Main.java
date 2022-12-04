@@ -28,6 +28,7 @@ public class Main {
         if (appleCount >= 3 && milkAmount >= 100 && powderAmount >= 300 && eggsCount >= 4) {
             System.out.println("Apple pie");
             System.out.println("branch3");
+            System.out.println("123456");
         }
     }
 }
