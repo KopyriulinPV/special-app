@@ -27,6 +27,7 @@ public class Main {
         // apples - 3, milk - 100 ml, powder - 300 g, eggs - 4
         if (appleCount >= 3 && milkAmount >= 100 && powderAmount >= 300 && eggsCount >= 4) {
             System.out.println("Apple pie");
+            System.out.println("branch2");
         }
     }
 }
